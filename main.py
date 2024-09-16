@@ -1,11 +1,8 @@
 from time import sleep
-import time
 import pygame
-from pygame.locals import *
 import random
 import sys
 from pygame.locals import *
-import tkinter as tk
 
 store = [0, 0, 0, 0, 0, 0, 0] # 存储已选择物品的列表
 windows_width = 600      # 窗口大小
